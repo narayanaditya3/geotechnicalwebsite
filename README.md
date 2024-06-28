@@ -1,5 +1,5 @@
 # Aditya Narayan
- This project is done by Aditya Narayan,student of iit jodhpur.
+ This project is done by Aditya Narayan,student of IIT Jodhpur.
 
 This project is basically about the analysis of different soil samples from different places of India to produce a map API which shows all the data of the experiment which performs on the different soils.
 
